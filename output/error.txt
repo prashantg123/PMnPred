@@ -1,0 +1,4 @@
+Warning message:
+NAs introduced by coercion 
+Warning message:
+In sink() : no sink to remove
